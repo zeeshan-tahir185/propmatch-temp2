@@ -1,0 +1,25 @@
+# Large video files - store in cloud storage or CDN instead
+v3.mp4
+v3-optimized.mp4
+v3-4k.mp4
+v3-mobile.mp4
+v3.mov
+v3-mobile.mp4
+v3-mobile-optimized.mp4
+v3-mobile-4k.mp4
+v3-mobile-small.mp4
+v3-mobile-small-optimized.mp4
+v3-mobile-small-4k.mp4
+v3-ultra-optimized.mp4
+v3-ultra-optimized.webm
+v3-hevc.mp4
+v3-small-short.mp4
+v3-small.mp4
+v3.webm
+
+# Keep small optimized formats (commit these)
+# v3.webm (512KB) - small WebM format
+# v3-small.mp4 (1.4MB) - fallback MP4 format
+
+# Optional: exclude logs if not needed
+conversion.log

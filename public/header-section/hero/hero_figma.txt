@@ -1,0 +1,1389 @@
+/* hero */
+
+position: absolute;
+width: 1392px;
+height: 853px;
+left: 60px;
+top: 100px;
+
+
+
+/* Rectangle 161 */
+
+position: absolute;
+width: 1392px;
+height: 482px;
+left: 60px;
+top: 100px;
+
+background: url(naomi-ellsworth-EMPLSuvDuhQ-unsplash.jpg);
+border-radius: 10px;
+
+
+/* Rectangle 162 */
+
+position: absolute;
+width: 1392px;
+height: 853px;
+left: 60px;
+top: 100px;
+
+background: #1A2B6C;
+border-radius: 10px;
+
+
+/* Group 1000002371 */
+
+position: absolute;
+width: 1392px;
+height: 853px;
+left: 60px;
+top: 100px;
+
+
+
+/* Rectangle 163 */
+
+position: absolute;
+width: 1392px;
+height: 853px;
+left: 60px;
+top: 100px;
+
+background: #1A2B6C;
+border-radius: 10px;
+
+
+/* 5590937 1 */
+
+position: absolute;
+width: 1815px;
+height: 292px;
+left: -152px;
+top: 508px;
+
+background: url(5590937.png);
+
+
+/* Macbook Pro */
+
+position: absolute;
+visibility: hidden;
+width: 491.28px;
+height: 300px;
+left: 510px;
+top: 541px;
+
+
+
+/* Lid */
+
+position: absolute;
+width: 415.26px;
+height: 280.79px;
+left: 548.01px;
+top: 541px;
+
+
+
+/* Aluminium Frame */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 415.26px;
+height: 280.79px;
+left: 548.01px;
+top: 541px;
+
+
+
+/* Black Frame */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 412.81px;
+height: 279.56px;
+left: 549.24px;
+top: 542.23px;
+
+background: #000000;
+border: 3.54908px solid #2D2E31;
+
+
+/* Screen */
+
+position: absolute;
+width: 402px;
+height: 261px;
+left: 555px;
+top: 547px;
+
+background: #FFFFFF;
+border-radius: 26px 26px 0px 0px;
+
+
+/* Your File here */
+
+position: absolute;
+width: 403px;
+height: 261px;
+left: -0.55px;
+top: -0.95px;
+
+background: #FFFFFF;
+
+
+/* Image or Frame */
+
+position: absolute;
+width: 1164.61px;
+height: 752.82px;
+left: 0px;
+top: 0px;
+
+background: url(Property_Analysis_Screen #2);
+
+
+/* Notch */
+
+position: absolute;
+width: 55.59px;
+height: 11.85px;
+left: 727.85px;
+top: 543.45px;
+
+
+
+/* Notch */
+
+position: absolute;
+width: 55.59px;
+height: 11.85px;
+left: 727.85px;
+top: 543.45px;
+
+background: #000000;
+
+
+/* Camera */
+
+position: absolute;
+width: 3.77px;
+height: 3.77px;
+left: 753.6px;
+top: 547.13px;
+
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 3.77px;
+height: 3.77px;
+left: 753.6px;
+top: 547.13px;
+
+background: linear-gradient(120.65deg, #222222 14.3%, #0B0B0B 81.67%);
+transform: rotate(-180deg);
+
+
+/* Ellipse 5 */
+
+position: absolute;
+width: 2.04px;
+height: 2.04px;
+left: 754.41px;
+top: 547.95px;
+
+background: radial-gradient(40.91% 41.21% at 50% 45.45%, #152457 0%, #000000 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 1.63px;
+height: 1.23px;
+left: 754.82px;
+top: 548.36px;
+
+background: linear-gradient(254.48deg, #20569B 11.41%, #061127 63.11%);
+filter: blur(0.821547px);
+transform: rotate(-90deg);
+
+
+/* Ellipse 8 */
+
+position: absolute;
+width: 0.41px;
+height: 0.41px;
+left: 755.23px;
+top: 548.36px;
+
+background: #50326D;
+filter: blur(2.88193px);
+
+
+/* Ellipse 7 */
+
+position: absolute;
+width: 1.63px;
+height: 1.63px;
+left: 754.82px;
+top: 548.36px;
+
+background: linear-gradient(254.48deg, #3D6495 11.41%, #061127 66.3%);
+filter: blur(0.821547px);
+transform: rotate(90deg);
+
+
+/* Ellipse 9 */
+
+position: absolute;
+width: 0.82px;
+height: 0.41px;
+left: 755.23px;
+top: 549.17px;
+
+background: linear-gradient(321.34deg, #3291AF 1.85%, rgba(50, 145, 175, 0) 77.78%);
+filter: blur(0.960643px);
+
+
+/* Chin */
+
+position: absolute;
+width: 410.35px;
+height: 9.81px;
+left: 550.46px;
+top: 811.98px;
+
+background: linear-gradient(180deg, #2D2D2D 0%, #000000 100%);
+
+
+/* Base */
+
+position: absolute;
+width: 491.28px;
+height: 19.21px;
+left: 510px;
+top: 821.79px;
+
+
+
+/* Bottom */
+
+position: absolute;
+width: 491.28px;
+height: 19.21px;
+left: 510px;
+top: 821.79px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 491.28px;
+height: 16.35px;
+left: 510px;
+top: 821.79px;
+
+background: linear-gradient(90deg, #A9AAAC 0%, rgba(242, 242, 242, 0.921875) 2.05%, #787879 3.39%, rgba(214, 214, 214, 0.606575) 12.48%, rgba(228, 228, 228, 0) 51.56%, rgba(215, 215, 215, 0.666378) 86.46%, #848484 97.39%, #F4F4F4 99.23%, #BFBFBF 100%), #D1D2D4;
+box-shadow: inset 0px -1.18303px 3.54908px #9D9D9D, inset 0px -7.09817px 5.91514px #E6E7E8, inset 0px -20.1115px 14.1963px #808081;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 76.02px;
+height: 5.72px;
+left: 717.63px;
+top: 821.79px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 38.01px;
+height: 5.72px;
+left: 717.63px;
+top: 821.79px;
+
+background: linear-gradient(85.75deg, #242424 4.27%, #EFEFEF 12.15%), radial-gradient(139.29% 139.29% at 50% 0%, #FFFFFF 0%, #D9D9D9 100%);
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 38.01px;
+height: 5.72px;
+left: 755.64px;
+top: 821.79px;
+
+background: linear-gradient(85.75deg, #242424 4.27%, #EFEFEF 12.15%), radial-gradient(139.29% 139.29% at 50% 0%, #FFFFFF 0%, #D9D9D9 100%);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Leg Right */
+
+position: absolute;
+width: 28.41px;
+height: 2.86px;
+left: 948.15px;
+top: 838.14px;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 28.41px;
+height: 1.23px;
+left: 948.15px;
+top: 838.14px;
+
+background: linear-gradient(90deg, #D1D2D4 0%, #818181 6.28%, #D0D0D0 50.34%, #818181 85.84%, #D1D2D4 99.28%);
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 26.16px;
+height: 0.41px;
+left: 949.37px;
+top: 839.37px;
+
+background: #2A2A2A;
+border-radius: 1.18303px;
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 25.34px;
+height: 1.23px;
+left: 949.78px;
+top: 839.77px;
+
+background: linear-gradient(90deg, #4D4D4D 1.64%, #292929 17.05%, #6A6A6A 51%, #2E2D2D 88.66%, #4D4D4D 100%);
+
+
+/* Leg Right */
+
+position: absolute;
+width: 28.41px;
+height: 2.86px;
+left: 534.52px;
+top: 838.14px;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 28.41px;
+height: 1.23px;
+left: 534.52px;
+top: 838.14px;
+
+background: linear-gradient(90deg, #D1D2D4 0%, #818181 6.28%, #D0D0D0 50.34%, #818181 85.84%, #D1D2D4 99.28%);
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 25.75px;
+height: 0.41px;
+left: 535.75px;
+top: 839.37px;
+
+background: #2A2A2A;
+border-radius: 1.18303px;
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 24.93px;
+height: 1.23px;
+left: 536.16px;
+top: 839.77px;
+
+background: linear-gradient(90deg, #4D4D4D 1.64%, #292929 17.05%, #6A6A6A 51%, #2E2D2D 88.66%, #4D4D4D 100%);
+
+
+/* Texture */
+
+position: absolute;
+width: 491.28px;
+height: 16.35px;
+left: 510px;
+top: 821.79px;
+
+background: url();
+border-radius: 0px 0px 23.6606px 23.6606px;
+
+
+/* Convert Cold Leads into Listings — Identify Homeowners 5× More Likely to List */
+
+position: absolute;
+width: 944px;
+height: 102px;
+left: 284px;
+top: 183px;
+
+font-family: 'Satoshi';
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+line-height: 110%;
+/* or 51px */
+text-align: center;
+letter-spacing: 0.005em;
+
+color: #FFFFFF;
+
+
+
+/* AI ranks your farm so you hit the hottest prospects first. No more guesswork. */
+
+position: absolute;
+width: 529px;
+height: 22px;
+left: 492px;
+top: 323px;
+
+font-family: 'SF UI Display';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 147% */
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+
+
+/* log_in_button */
+
+position: absolute;
+width: 200px;
+height: 48px;
+left: 656px;
+top: 403px;
+
+
+
+/* SignUp_button */
+
+position: absolute;
+width: 200px;
+height: 48px;
+left: 656px;
+top: 403px;
+
+
+
+/* Rectangle 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 200px;
+height: 48px;
+left: 656px;
+top: 403px;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+
+
+/* Group 18 */
+
+position: absolute;
+width: 99px;
+height: 16px;
+left: 707px;
+top: 419px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Start Free Trial */
+
+position: absolute;
+width: 99px;
+height: 16px;
+left: 707px;
+top: 419px;
+
+font-family: 'SF UI Display';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 16px;
+/* identical to box height, or 107% */
+text-align: center;
+
+color: #1A2B6C;
+
+
+
+/* 🖥 iMac  */
+
+position: absolute;
+width: 363.26px;
+height: 300px;
+left: 575px;
+top: 521px;
+
+
+
+/* Keep it */
+
+position: absolute;
+width: 363.26px;
+height: 300px;
+left: 575px;
+top: 521px;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 265.91px;
+height: 2.1px;
+left: 623.68px;
+top: 811.54px;
+
+background: rgba(196, 196, 196, 0.001);
+box-shadow: 0px 0px 82.58px rgba(0, 0, 0, 0.46);
+
+
+/* Rectangle */
+
+position: absolute;
+width: 363.26px;
+height: 254px;
+left: 575px;
+top: 521px;
+
+background: #F1F1F1;
+border-radius: 15px;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 363.26px;
+height: 36.19px;
+left: 575px;
+top: 738.82px;
+
+background: #F5F5F5;
+
+
+/* Rectangle 2.1 */
+
+position: absolute;
+width: 123.15px;
+height: 4.91px;
+left: 695.07px;
+top: 816.09px;
+
+background: linear-gradient(180deg, #D4D4D4 85.8%, #B4B4B4 107.05%);
+box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.38);
+
+
+/* Rectangle 2.2 */
+
+position: absolute;
+width: 122.64px;
+height: 44.36px;
+left: 695.31px;
+top: 775px;
+
+background: linear-gradient(180deg, #D7D7D7 0%, rgba(255, 255, 255, 0) 69.99%), linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #FFFFFF 54.14%, rgba(255, 255, 255, 0) 100%), radial-gradient(171.58% 71.57% at 50% 77.1%, #DBDBDB 0%, rgba(255, 255, 255, 0) 100%), #F5F5F5;
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 338.98px;
+height: 191.44px;
+left: 587.14px;
+top: 534.31px;
+
+border: 3px solid #E1E1E1;
+
+
+/* Vector */
+
+position: absolute;
+width: 14.71px;
+height: 17.74px;
+left: 749.16px;
+top: 746.29px;
+
+background: #C8C8C8;
+
+
+/* Your design here */
+
+position: absolute;
+width: 337.58px;
+height: 190.04px;
+left: 587.84px;
+top: 535.01px;
+
+
+
+/* frame */
+
+position: absolute;
+width: 337.58px;
+height: 190.04px;
+left: 587.84px;
+top: 535.01px;
+
+background: #F5F5F5;
+
+
+/* sample */
+
+position: absolute;
+width: 337.58px;
+height: 190.04px;
+left: 587.89px;
+top: 535.01px;
+
+background: #F5F5F5;
+
+
+/* Your design here */
+
+position: absolute;
+width: 338.91px;
+height: 190.74px;
+left: 587.22px;
+top: 534.31px;
+
+
+
+/* frame */
+
+position: absolute;
+left: 38.84%;
+right: 38.75%;
+top: 12.03%;
+bottom: 83.67%;
+
+background: #F5F5F5;
+
+
+/* sample */
+
+position: absolute;
+left: 38.84%;
+right: 38.75%;
+top: 12.03%;
+bottom: 83.65%;
+
+background: url(Property_Analysis_Screen #6);
+
+
+/* 💻  Macbook  */
+
+position: absolute;
+height: 230px;
+left: 24.47%;
+right: 50.82%;
+top: calc(50% - 230px/2 - 1465px);
+
+
+
+/* Keep it */
+
+position: absolute;
+width: 373.57px;
+height: 230px;
+left: 370px;
+top: 640px;
+
+
+
+/* shade */
+
+position: absolute;
+left: 24.47%;
+right: 50.82%;
+top: 19.06%;
+bottom: 80.41%;
+
+background: url(Image);
+
+
+
+
+/* shade */
+
+position: absolute;
+left: 24.47%;
+right: 50.82%;
+top: 19.06%;
+bottom: 80.41%;
+
+background: url(Image);
+
+
+/* shade */
+
+position: absolute;
+left: 24.47%;
+right: 50.82%;
+top: 19.06%;
+bottom: 80.41%;
+
+background: url(Image);
+
+
+/* bg */
+
+position: absolute;
+left: 26.94%;
+right: 53.38%;
+top: 14.41%;
+bottom: 80.87%;
+
+background: linear-gradient(180deg, #F1F1F1 88.02%, #E4E4E4 100%);
+
+
+/* bg */
+
+position: absolute;
+left: 27.03%;
+right: 53.46%;
+top: 14.44%;
+bottom: 80.89%;
+
+border: 3px solid #E7E7E7;
+
+
+/* cam */
+
+position: absolute;
+left: 36.66%;
+right: 63.17%;
+top: 14.58%;
+bottom: 85.36%;
+
+background: #F2F2F2;
+
+
+/* Bottom */
+
+position: absolute;
+left: 24.73%;
+right: 51.16%;
+top: 18.96%;
+bottom: 80.82%;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+left: 24.74%;
+right: 51.17%;
+top: 18.97%;
+bottom: 80.98%;
+
+background: linear-gradient(90deg, rgba(0, 0, 0, 0.04) 0%, rgba(255, 255, 255, 0.04) 100%), #FFFFFF;
+background-blend-mode: multiply, normal;
+box-shadow: inset 0px 1.53255px 0px rgba(0, 0, 0, 0.02);
+
+
+/* gradient */
+
+position: absolute;
+left: 47.91%;
+right: 51.17%;
+top: 18.97%;
+bottom: 80.98%;
+
+background: linear-gradient(270deg, #000000 -24.72%, #FFFFFF 100%, #FFFFFF 100%);
+mix-blend-mode: multiply;
+opacity: 0.1;
+
+
+/* gradient */
+
+position: absolute;
+left: 24.74%;
+right: 74.34%;
+top: 18.97%;
+bottom: 80.98%;
+
+background: linear-gradient(90deg, #000000 0%, #FFFFFF 100%, #FFFFFF 100%);
+mix-blend-mode: multiply;
+opacity: 0.1;
+
+
+/* bottom */
+
+position: absolute;
+left: 24.73%;
+right: 51.16%;
+top: 19.01%;
+bottom: 80.82%;
+
+background: linear-gradient(151.66deg, #EBEBEB 17.52%, rgba(88, 88, 88, 0) 124.27%), linear-gradient(180deg, rgba(255, 255, 255, 0.05) 0%, rgba(0, 0, 0, 0.05) 100%), linear-gradient(180deg, rgba(0, 0, 0, 0.07) 0%, rgba(255, 255, 255, 0.07) 100%), linear-gradient(90deg, rgba(0, 0, 0, 0.07) 0%, rgba(234, 234, 234, 0.07) 100%, rgba(255, 255, 255, 0.07) 100%), linear-gradient(90deg, rgba(0, 0, 0, 0.07) 0%, rgba(234, 234, 234, 0.07) 100%, rgba(255, 255, 255, 0.07) 100%), #FFFFFF;
+background-blend-mode: normal, multiply, multiply, multiply, multiply, normal;
+
+
+/* Combined shape 29 */
+
+position: absolute;
+left: 34.48%;
+right: 60.92%;
+top: 18.97%;
+bottom: 80.97%;
+
+background: #FFFFFF;
+box-shadow: inset 0px 1.53255px 0px rgba(0, 0, 0, 0.03);
+
+
+/* Shape sp-29-0 */
+
+position: absolute;
+left: 34.46%;
+right: 60.91%;
+top: 18.96%;
+bottom: 80.96%;
+
+background: #DADADA;
+
+
+/* Shape sp-29-0 */
+
+position: absolute;
+left: 34.46%;
+right: 60.91%;
+top: 18.96%;
+bottom: 80.96%;
+
+background: #DADADA;
+
+
+/* Shape sp-29-0 */
+
+position: absolute;
+left: 34.46%;
+right: 60.91%;
+top: 18.96%;
+bottom: 80.96%;
+
+background: #DADADA;
+
+
+/* gradient */
+
+position: absolute;
+left: 34.46%;
+right: 65.06%;
+top: 18.96%;
+bottom: 80.96%;
+
+background: linear-gradient(90deg, #000000 0%, #FFFFFF 100%, #FFFFFF 100%);
+mix-blend-mode: multiply;
+opacity: 0.07;
+
+
+/* gradient */
+
+position: absolute;
+left: 38.62%;
+right: 60.91%;
+top: 18.96%;
+bottom: 80.96%;
+
+background: linear-gradient(270deg, #000000 0%, #FFFFFF 100%, #FFFFFF 100%);
+mix-blend-mode: multiply;
+opacity: 0.07;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 27.68%;
+right: 54.11%;
+top: 14.72%;
+bottom: 81.4%;
+
+border: 3.0651px solid #E1E1E1;
+
+
+/* Your design here */
+
+position: absolute;
+width: 275.3px;
+height: 172.06px;
+left: 418.52px;
+top: 653.77px;
+
+
+
+/* frame */
+
+position: absolute;
+left: 27.68%;
+right: 54.11%;
+top: 14.72%;
+bottom: 81.4%;
+
+background: #F5F5F5;
+
+
+/* sample */
+
+position: absolute;
+left: 27.68%;
+right: 54.11%;
+top: 14.72%;
+bottom: 81.4%;
+
+background: url(image);
+
+
+/* sample */
+
+position: absolute;
+left: 27.69%;
+right: 54.12%;
+top: 14.73%;
+bottom: 81.4%;
+
+background: url(Property_Analysis_Screen #1), #C4C4C4;
+
+
+/* 📱 iPad  */
+
+position: absolute;
+width: 203.07px;
+height: 200px;
+left: 836px;
+top: 649px;
+
+
+
+/* Keep it */
+
+position: absolute;
+width: 203.07px;
+height: 200px;
+left: 836px;
+top: 649px;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 203.07px;
+height: 5.84px;
+left: 836px;
+top: 843.16px;
+
+background: rgba(196, 196, 196, 0.001);
+box-shadow: 0px 0px 29.6427px rgba(0, 0, 0, 0.08);
+
+
+/* shadow */
+
+position: absolute;
+width: 143.86px;
+height: 23.35px;
+left: 865.19px;
+top: 825.23px;
+
+background: rgba(196, 196, 196, 0.001);
+box-shadow: 0px 0px 22.232px rgba(0, 0, 0, 0.33);
+
+
+/* Rectangle */
+
+position: absolute;
+width: 142.69px;
+height: 199.53px;
+left: 866.21px;
+top: 649px;
+
+background: #F9FAFA;
+border-radius: 75.5039px;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 142.69px;
+height: 199.53px;
+left: 866.21px;
+top: 649px;
+
+background: #F9F9F9;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 141.63px;
+height: 198.17px;
+left: 866.79px;
+top: 649.68px;
+
+border: 3px solid #E7E7E7;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 126.93px;
+height: 166.27px;
+left: 874.09px;
+top: 665.63px;
+
+background: #FFFFFF;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 127.83px;
+height: 166.62px;
+left: 873.21px;
+top: 665.24px;
+
+background: #F5F5F5;
+
+
+/* Ellipse */
+
+position: absolute;
+width: 2.63px;
+height: 2.63px;
+left: 937.56px;
+top: 656.88px;
+
+background: linear-gradient(360deg, #EBEBEB 0%, #C8C8C8 100%);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 1.52px;
+height: 1.52px;
+left: 938.12px;
+top: 657.44px;
+
+background: #F9FAFA;
+
+
+/* home */
+
+position: absolute;
+left: 61.67%;
+right: 37.65%;
+top: 18.79%;
+bottom: 80.98%;
+
+
+
+/* Oval */
+
+position: absolute;
+left: 61.67%;
+right: 37.65%;
+top: 18.79%;
+bottom: 80.98%;
+
+background: linear-gradient(360deg, #EBEBEB 0%, #C8C8C8 100%);
+
+
+/* Oval */
+
+position: absolute;
+left: 61.71%;
+right: 37.69%;
+top: 18.8%;
+bottom: 80.99%;
+
+background: #FAFAFA;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 127.95px;
+height: 166.78px;
+left: 873.54px;
+top: 665.24px;
+
+background: #F5F5F5;
+border: 3px solid #DCDCDC;
+
+
+/* Your design here */
+
+position: absolute;
+width: 127.95px;
+height: 166.78px;
+left: 873.54px;
+top: 665.24px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 127.95px;
+height: 166.78px;
+left: 873.54px;
+top: 665.24px;
+
+background: #F5F5F5;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 127.95px;
+height: 166.78px;
+left: 873.54px;
+top: 665.24px;
+
+background: #F5F5F5;
+
+
+/* Your design here */
+
+position: absolute;
+width: 128.29px;
+height: 166.78px;
+left: 873.14px;
+top: 665.21px;
+
+
+
+/* frame */
+
+position: absolute;
+left: 57.75%;
+right: 33.77%;
+top: 14.98%;
+bottom: 81.26%;
+
+background: #F5F5F5;
+
+
+/* image 1 */
+
+position: absolute;
+width: 128.29px;
+height: 166.78px;
+left: 873.14px;
+top: 665.21px;
+
+background: url(Property_Analysis_Screen #4), #C4C4C4;
+
+
+/* 📱 Iphone X  */
+
+position: absolute;
+height: 150px;
+left: 63.96%;
+right: 30.45%;
+top: calc(50% - 150px/2 - 1445px);
+
+
+
+/* Keep it */
+
+position: absolute;
+width: 84.65px;
+height: 150px;
+left: 967px;
+top: 700px;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 84.65px;
+height: 2.43px;
+left: 967px;
+top: 847.57px;
+
+background: rgba(196, 196, 196, 0.001);
+box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.08);
+
+
+/* shadow */
+
+position: absolute;
+width: 59.97px;
+height: 9.73px;
+left: 979.34px;
+top: 839.57px;
+
+background: rgba(196, 196, 196, 0.001);
+box-shadow: 0px 0px 9px rgba(0, 0, 0, 0.33);
+
+
+/* shadow */
+
+position: absolute;
+width: 73.87px;
+height: 149.3px;
+left: 972.39px;
+top: 700px;
+
+background: #F9FAFA;
+box-shadow: 0px 5.53px 17.5459px rgba(0, 0, 0, 0.03);
+
+
+/* Screen */
+
+position: absolute;
+width: 73.87px;
+height: 149.3px;
+left: 972.39px;
+top: 700px;
+
+background: #F9FAFA;
+box-shadow: inset 0px -5.26377px 17.6907px rgba(0, 0, 0, 0.12);
+
+
+/* Border */
+
+position: absolute;
+width: 65.18px;
+height: 141.14px;
+left: 976.73px;
+top: 704.04px;
+
+border: 1px solid #E1E1E1;
+
+
+/* camera-menu */
+
+position: absolute;
+left: 66.41%;
+right: 32.9%;
+top: 15.89%;
+bottom: 84.09%;
+
+transform: rotate(-0.01deg);
+
+
+/* sound-camera */
+
+position: absolute;
+left: 66.41%;
+right: 32.9%;
+top: 15.89%;
+bottom: 84.09%;
+
+transform: rotate(-0.01deg);
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 7.48px;
+height: 1.2px;
+left: 1004.17px;
+top: 705.34px;
+
+background: #C8C8C8;
+mix-blend-mode: normal;
+opacity: 0.4;
+border-radius: 3.01794px;
+transform: rotate(-0.01deg);
+
+
+/* camera */
+
+position: absolute;
+width: 1.22px;
+height: 1.2px;
+left: 1013.39px;
+top: 705.34px;
+
+background: #C8C8C8;
+mix-blend-mode: normal;
+opacity: 0.55;
+border-radius: 3.52093px;
+transform: rotate(-0.01deg);
+
+
+/* Your design here */
+
+position: absolute;
+width: 65.18px;
+height: 141.14px;
+left: 976.74px;
+top: 704px;
+
+
+
+/* Mask */
+
+position: absolute;
+width: 65.18px;
+height: 141.14px;
+left: 976.74px;
+top: 704px;
+
+background: #E2F6D7;
+
+
+/* your design here */
+
+position: absolute;
+width: 65.27px;
+height: 146px;
+left: 976.73px;
+top: 700px;
+
+
+
+/* sample */
+
+position: absolute;
+width: 65.18px;
+height: 141.14px;
+left: 976.73px;
+top: 703.96px;
+
+background: #F5F5F5;
+
+
+/* sample */
+
+position: absolute;
+left: 64.62%;
+right: 31.08%;
+top: 15.77%;
+bottom: 80.95%;
+
+background: url(Property_Analysis_Screen #7_mobile), #EBEBEB;
+
